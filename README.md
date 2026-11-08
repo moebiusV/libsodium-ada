@@ -1,6 +1,6 @@
 # libsodium-ada
 
-[github.com/moebiusV/libsodium-ada](https://github.com/moebiusV/libsodium-ada) | `git clone https://github.com/moebiusV/libsodium-ada`
+[up](https://moebiusv.github.io/) | [github.com/moebiusV/libsodium-ada](https://github.com/moebiusV/libsodium-ada) | `git clone https://github.com/moebiusV/libsodium-ada`
 
 A thin, idiomatic Ada 2022 binding to [libsodium](https://doc.libsodium.org/),
 the audited cryptography library. It maps each libsodium primitive onto an
